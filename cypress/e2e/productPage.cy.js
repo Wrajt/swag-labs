@@ -1,6 +1,5 @@
 import { onLoginPage } from "../support/LoginPage";
 import { onProductsPage } from "../support/ProductPage";
-
 import { productPage, products } from "../support/selectors";
 import { secretPassword } from "../support/secretPassword";
 
