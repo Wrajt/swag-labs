@@ -1,5 +1,7 @@
 # swag-labs challenge
 
+![Swag Labs Robot Image](https://www.saucedemo.com/v1/img/Login_Bot_graphic.png)
+
 The repository contains automatic tests for the [Sauce Demo](https://www.saucedemo.com) platform. The tests cover several key paths and were written using Cypress.io and JavaScript.
 
 
